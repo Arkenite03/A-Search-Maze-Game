@@ -7,4 +7,4 @@
 <img src="https://github.com/Arkenite03/AStar-Search-Maze-Game/blob/drawable/Images/built_maze.PNG" alt="Maze" width="400px"/>
 
 ### Inbuilt Maze
-<img src="https://github.com/Arkenite03/AStar-Search-Maze-Game/blob/drawable/Images/sraw_maze.PNG" alt="Maze" width="400px"/>
+<img src="https://github.com/Arkenite03/AStar-Search-Maze-Game/blob/drawable/Images/draw_maze.PNG" alt="Maze" width="400px"/>
