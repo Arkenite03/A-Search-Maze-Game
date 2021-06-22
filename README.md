@@ -1,2 +1,2 @@
 # AStar-Search-Maze-Game
-![Alt text](/../<drawble>/path/to/Intro.png?raw=true "Optional Title")
+![Intro](https://github.com/Arkenite03/AStar-Search-Maze-Game/blob/drawable/Images/Intro.PNG?raw=true "Optional Title")
